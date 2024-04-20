@@ -15,5 +15,6 @@ public class stringrev {
             }
         }
         System.out.println(s.toString());
+        System.out.println(str);
     }
 }
